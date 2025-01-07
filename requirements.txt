@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+xgboost
+pandas
+plotly
+ta
+yfinance==0.2.40
