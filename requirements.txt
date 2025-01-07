@@ -2,6 +2,6 @@ streamlit
 scikit-learn
 xgboost
 pandas
-plotly
+matplotlib
 ta
 yfinance==0.2.40
